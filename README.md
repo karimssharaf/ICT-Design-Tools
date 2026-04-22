@@ -20,6 +20,7 @@ View all releases here: https://github.com/karimssharaf/ICT-Revit-Tools/releases
 ✅ Compatibility:
 - Autodesk Revit 2024 (.NET Framework 4.8)
 - Autodesk Revit 2025 (.NET 8.0 Windows)
+- Autodesk Revit 2026 (.NET 8.0 Windows)
 
 🛡️ Installation:
 - Download ICTDesign_RevitAddin_Setup_v1.0.0.exe
