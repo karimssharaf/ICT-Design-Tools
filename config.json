@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.2.0",
   "download_url": "https://github.com/karimssharaf/ICT-Design-Tools/releases",
   "revoked_key_hashes": [
    "",
@@ -23,6 +23,7 @@
     "1a50dead3a7e8947f1871ea7e0b1111397125ffa2c07cf2c98ca62966d8a10ff",
     "01b6dea70444a79c0eb80e57e812a4de594c736fd0ec415039601fc9dc465049",
     "d9a13935ffbfbc004adc7e146dab2f677d676d28f02a40c0a1e06d3539e42785",
-    "d20fc80f3a6b024f336937b75e6f37d9a20ee5ba1b21a7ad463bd86341ef2143"
+    "d20fc80f3a6b024f336937b75e6f37d9a20ee5ba1b21a7ad463bd86341ef2143",
+    "b53a1e8ca85cd1be5ccc566db6354ab7a865b2d1660827c418eba81f9ba3d382"
   ]
 }
