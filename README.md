@@ -25,7 +25,7 @@ Speed up model setup, coordination and drawing production.
 
 
 🛡️ Installation:
-- Download ICTDesign_RevitAddin_Setup_v1.7.0.exe
+- Download ICTDesign_RevitAddin_Setup_v1.7.0.exe (https://github.com/karimssharaf/ICT-Design-Tools/releases/download/v1.7.0/ICTDesign_RevitAddin_Release_Setup_v1.7.0.rar)
 - Close Revit
 - Run the installer (No administrator rights are required)
 - Launch Revit
