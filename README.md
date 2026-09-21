@@ -1,33 +1,35 @@
-### 🚀 ICT Design Tools for Revit 
-We are excited to launch the first official version of the **ICT Design Tools** for Autodesk Revit.
-This tool aims to integrate ICT, AV & Security systems design workflows and calculations into Revit. 
+ICT Design Tools & Drafting Tools for Revit
 
-View all releases here: https://github.com/karimssharaf/ICT-Revit-Tools/releases
+Two toolkits to simplify engineering design and everyday Revit production.
 
-✨Features included:
-- Structured Cabling Tools: Auto-circuit outlets to racks, auto assign patch panels and switches and calculate required power, thermal load and bandwidth for each rack.
-- Rack Builder: Create and save rack layouts directly on selected rack elements.
-- Cable Tray Fill: Calculate tray fill for selected cable trays and export tray fill reporting data.
-- VSS Field Of View: Complete CCTV calculation and surveillance level drawing engine.
-- Camera Storage Design: Calculate required storage for the project.
-- PA/BGM Tools: Speaker range, speaker power, coverage drawing, and amplifier sizing.
-- AV Design Tools: AV display viewing-boundary calculations and projector throw-distance calculations.
-- Layouts & Drafting: Generate sheet legends and project legends directly in Revit.
-- Grid Mark: Create Grid or Path guides for placement of devices.
-- Initialize Parameters: One-click setup for required shared parameters across supported workflows.
-- Auto-Updates: In-app notification when a newer release is available.
+🔹 ICT Design Tools
+Bring ICT, AV and security design calculations directly into your model.
+- Structured Cabling: Automate outlet connections, patch-panel and switch assignments, with power, thermal-load and bandwidth calculations.
+- Rack Builder: Create reusable rack layouts and generate rack elevations.
+- Cable Design: Manage cable inventories, check fiber loss budgets and copper lengths, and calculate tray fill.
+- Video Surveillance: Visualize CCTV coverage and DORI zones, and calculate recording storage.
+- PA/BGM & Acoustics: Calculate speaker coverage and power, assign amplifiers, and analyze room SPL and speech intelligibility.
+- AV Design: Size displays, visualize viewing boundaries and calculate projector throw distances.
+- Access Control & Zoning: Place door-access hardware, map security zones and visualize equipment coverage areas.
+- 
+🔹 Drafting Tools
+Speed up model setup, coordination and drawing production.
+- Model Setup: Streamline coordinates, levels, grids, scope boxes, worksets and spaces.
+- Views & Sheets: Create and manage views and sheets, align viewports and place legends.
+- Selection & Navigation: Find elements with advanced filters and move quickly between sheets, views and focused 3D views.
+- Annotation & Layout: Arrange text and tags, clean up leaders, manage room tags and distribute devices using grid or path guides.
+- Cable Tray Coordination: Create trays from lines, build offsets and bypasses, detect clashes across linked models and resolve tray conflicts.
+- Exports: Batch-export sheets to PDF, DWG and images.
 
-✅ Compatibility:
-- Autodesk Revit 2024 (.NET Framework 4.8)
-- Autodesk Revit 2025 (.NET 8.0 Windows)
-- Autodesk Revit 2026 (.NET 8.0 Windows)
+✅ Compatible with Autodesk Revit 2024, 2025 and 2026.
+
 
 🛡️ Installation:
-- Download ICTDesign_RevitAddin_Setup_v1.0.0.exe
+- Download ICTDesign_RevitAddin_Setup_v1.7.0.exe
 - Close Revit
 - Run the installer (No administrator rights are required)
 - Launch Revit
-- Send Machine ID shown in the pop up to Admin
+- Send Machine ID shown in the pop up to karimssharaf@outlook.com
 - Enter the Key given by the admin
 
 Note: This is an early release, bugs are expected. Please help improving by capturing the bug in detail and sending it to karimssharaf@outlook.com
